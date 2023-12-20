@@ -2,7 +2,7 @@ body {
     background-color: #111;
     /* Darker background color for the entire site */
     color: #0f0;
-    font-family: 'Consolas', monospace;
+    font-family: 'Courier', monospace;
     margin: 0;
     padding: 0;
     display: flex;
